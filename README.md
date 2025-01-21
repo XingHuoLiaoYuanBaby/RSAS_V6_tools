@@ -60,8 +60,11 @@
 
 ####  安装必要的包
 pip install pyinstaller
+
 pip install openpyxl==3.1.2
+
 pip install xlrd
+
 pip install colorama
 
 
